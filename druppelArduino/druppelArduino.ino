@@ -5,9 +5,9 @@ WiFiClient espClient;
 
 // Update these with values suitable for your network.
 
-const char* ssid = "HASNAOUI";
-const char* password = "Tilburg12345";
-const char* mqtt_server = "192.168.2.35";
+const char* ssid = "ssid";
+const char* password = "pass";
+const char* mqtt_server = "ip";
 
 // Predefine setup
 
